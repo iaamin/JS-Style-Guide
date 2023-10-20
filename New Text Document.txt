@@ -1,0 +1,8 @@
+const cars = ["Volvo", "Saab", "Fiat"];
+
+const person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 50,
+  eyeColor: "blue"
+};
